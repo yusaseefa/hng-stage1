@@ -2,7 +2,7 @@
 
 You can start the application locally after downloading or cloning the repository using 
 
-    *./mvnw -DskipTests spring-boot:run*
+    ./mvnw -DskipTests spring-boot:run
 
 running on port [Local Host](http://localhost:8080)
 
